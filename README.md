@@ -13,9 +13,6 @@
 - **Performance evaluation platform**: automated efficiency analysis of technical systems based on AAS
 - **BACnet connector**: live field data into time series and document databases
 
-**Hobby projects**
-- **Ayla** and **Kontor**: apps with real-time sync for family tracking and household planning
-
 **Publications:** 3 peer-reviewed papers (AUTOMATION 2025 and 2026, CISBAT 2025)
 
 📫 noumanahmad93@gmail.com · [TH Köln profile](https://www.th-koeln.de/en/person/nouman.ahmad/)
